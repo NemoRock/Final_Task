@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Magic boll</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question">Ваш вопрос / да или нет?</string>
+    <string name="about">About</string>
+    <string name="just_see_our_website">Just see our website</string>
+    <string name="about_the_program">About the program</string>
+    <string name="quest">Questions</string>
+</resources>
